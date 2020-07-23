@@ -11,27 +11,11 @@
 
 @media screen and (max-width: 988px) {
   .cardList {
-    text-align: center;
-    width: 80%;
-    margin: 0 auto;
-    display: grid;
-
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
-    padding-bottom: 3rem;
     grid-template-columns: 1fr 1fr;
   }
 }
 @media screen and (max-width: 675px) {
   .cardList {
-    text-align: center;
-    width: 80%;
-    margin: 0 auto;
-    display: grid;
-
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
-    padding-bottom: 3rem;
     grid-template-columns: 1fr;
   }
 }

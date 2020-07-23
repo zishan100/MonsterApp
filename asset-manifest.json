@@ -1,13 +1,13 @@
 {
-  "main.css": "/MonsterApp/static/css/main.d7aa8934.chunk.css",
-  "main.js": "/MonsterApp/static/js/main.38472800.chunk.js",
-  "main.js.map": "/MonsterApp/static/js/main.38472800.chunk.js.map",
+  "main.css": "/MonsterApp/static/css/main.c073d01e.chunk.css",
+  "main.js": "/MonsterApp/static/js/main.3451e3b0.chunk.js",
+  "main.js.map": "/MonsterApp/static/js/main.3451e3b0.chunk.js.map",
   "static/js/1.fadca083.chunk.js": "/MonsterApp/static/js/1.fadca083.chunk.js",
   "static/js/1.fadca083.chunk.js.map": "/MonsterApp/static/js/1.fadca083.chunk.js.map",
   "runtime~main.js": "/MonsterApp/static/js/runtime~main.938b56e9.js",
   "runtime~main.js.map": "/MonsterApp/static/js/runtime~main.938b56e9.js.map",
-  "static/css/main.d7aa8934.chunk.css.map": "/MonsterApp/static/css/main.d7aa8934.chunk.css.map",
+  "static/css/main.c073d01e.chunk.css.map": "/MonsterApp/static/css/main.c073d01e.chunk.css.map",
   "index.html": "/MonsterApp/index.html",
-  "precache-manifest.67f5f2255cb5be8032b90a5989b332ed.js": "/MonsterApp/precache-manifest.67f5f2255cb5be8032b90a5989b332ed.js",
+  "precache-manifest.a4c9ac84df94fd9102812398e3d05de1.js": "/MonsterApp/precache-manifest.a4c9ac84df94fd9102812398e3d05de1.js",
   "service-worker.js": "/MonsterApp/service-worker.js"
 }
